@@ -7,6 +7,6 @@ The service class in test is `ReservationServiceImpl`, which makes method calls 
 
 ### Running the Tests
 
-Make sure that [Maven](https://maven.apache.org/) is installed.
+Make sure that Java and [Maven](https://maven.apache.org/) are installed.  Navigate to the base directory of this project in your favorite command line application (Command Prompt for Windows, or Terminal for Mac) and run:
 
 `mvn test`
